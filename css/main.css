@@ -1,0 +1,65 @@
+@font-face {
+    font-family: BebasNeue;
+    src:url(/assets/fonts/BebasNeue.otf);
+}
+
+@font-face {
+    font-family: Droid;
+    src:url(/assets/fonts/DroidSerif.ttf);
+}
+
+body{
+    background-color: #222;
+    color: #eee;
+}
+
+.siteHeader{
+    margin-bottom: 2.5%;
+}
+
+.siteHeader > h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: BebasNeue;
+}
+
+.post{
+    text-align: center;
+    color: #222;
+    background-color: #EFEFEF;
+    padding: 15px 0px;
+    font-family: Droid;
+    font-size: 16px;
+}
+
+.actualPost{
+    padding: 20px;
+    margin: 0px auto;
+    width: 40%;
+}
+
+.postDivisonLine{
+    border: 1px solid #222;
+    margin: 30px 0px;
+}
+
+.postDate{
+    color: #777;
+}
+
+.backlink{
+    text-align: left;
+    float: left;
+    font-size: 32px;
+    margin-top: -20px;
+    color: #186293;
+}
+
+.backlink:hover, .backlink:active{
+    color: #319fea;
+    text-decoration: none;
+}
+
+.clearLeft{
+    clear: left;
+}
