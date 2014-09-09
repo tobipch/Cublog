@@ -6,9 +6,9 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     
-    <script src="{{ "{{site.url}}/css/deps/jquery-2.1.1.min.js"}}"></script>
-    <script src="{{ "{{site.url}}/css/deps/bootstrap.min.js"}}"></script>
-    <link rel="stylesheet" href="{{ "{{site.url}}/css/deps/bootstrap.min.css"}}">
-    <link rel="stylesheet" href="{{ "{{site.url}}/css/main.css"}}">
+    <script src="{{ "/css/deps/jquery-2.1.1.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/css/deps/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <link rel="stylesheet" href="{{ "{{site.url}}/css/deps/bootstrap.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "{{site.url}}/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>

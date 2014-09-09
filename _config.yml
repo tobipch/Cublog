@@ -3,8 +3,8 @@ title: Tobi's Cublog
 email: tobias.peter@bluewin.ch
 description: > # this means to ignore newlines until "baseurl:"
   In this little blog I'll write about cubing stuff, keep hold of my progress and try to entertain you with this tiny textgems.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "tobipch.github.io/Cublog" # the base hostname & protocol for your site
+baseurl: "/Cublog/" # the subpath of your site, e.g. /blog/
+url: "tobipch.github.io" # the base hostname & protocol for your site
 github_username:  tobipch
 
 # Build settings
