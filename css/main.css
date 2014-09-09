@@ -1,11 +1,11 @@
 @font-face {
     font-family: BebasNeue;
-    src:url(/Cublog/assets/fonts/BebasNeue.otf);
+    src:url({{site.baseurl}}/assets/fonts/BebasNeue.otf);
 }
 
 @font-face {
     font-family: Droid;
-    src:url(/Cublog/assets/fonts/DroidSerif.ttf);
+    src:url({{site.baseurl}}/assets/fonts/DroidSerif.ttf);
 }
 
 body{
