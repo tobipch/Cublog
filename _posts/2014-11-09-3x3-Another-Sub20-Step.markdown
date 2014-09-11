@@ -7,7 +7,7 @@ puzzleType: 3x3
 ---
 Hello :)
 
-Another big Step to my target Sub-20 Ao100 ist made.
+Another big Step to my target Sub-20 Ao100 is made.
 
 Yesterday I finally got my first Sub-20 Ao12 and with 19.61 Seconds it isn't even that tightly.
 
