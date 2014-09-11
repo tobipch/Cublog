@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "3x3 Massive improvement"
-date:   2014-09-09 07:45:00
-categories: 3x3 improvement new-records
+title:  "Another Sub20 Step"
+date:   2014-11-09 10:48:00
+categories: 3x3 improvement new-records Ao12 Sub20
 puzzleType: 3x3
 ---
 Hello :)
