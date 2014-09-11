@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another Sub20 Step"
-date:   2014-11-09 10:48:00
+date:   2014-09-11 10:48:00
 categories: 3x3 improvement new-records Ao12 Sub20
 puzzleType: 3x3
 ---
