@@ -8,8 +8,17 @@
     src:url(/Cublog/assets/fonts/DroidSerif.ttf);
 }
 
+html{
+    height: 100%;
+}
+
 body{
-    background-color: #222;
+    background: -webkit-linear-gradient(top, #180738 10%, #684188 90%); /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(top, #180738 10%, #684188 90%); /* FF3.6+ */
+    background:     -ms-linear-gradient(top, #180738 10%, #684188 90%); /* IE10 */
+    background:      -o-linear-gradient(top, #180738 10%, #684188 90%); /* Opera 11.10+ */
+    background:         linear-gradient(top, #180738 10%, #684188 90%); /* W3C */
+    
     color: #eee;
 }
 
