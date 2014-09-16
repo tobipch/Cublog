@@ -44,11 +44,14 @@ body{
 }
 
 .post{
-    text-align: center;
     color: #222;        
     padding: 15px 0px;
     font-family: Droid;
     font-size: 16px;
+}
+
+.postContent{
+    text-align: left !important;
 }
 
 .actualPost{
