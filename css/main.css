@@ -50,6 +50,10 @@ body{
     font-size: 16px;
 }
 
+.page{
+    padding: 5%;
+}
+
 .postContent{
     text-align: left !important;
 }
