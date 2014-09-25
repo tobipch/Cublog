@@ -13,13 +13,18 @@ html{
 }
 
 body{
-    background: -webkit-linear-gradient(top, #180738 10%, #684188 90%); /* Chrome 10+, Saf5.1+ */
-    background:    -moz-linear-gradient(top, #180738 10%, #684188 90%); /* FF3.6+ */
-    background:     -ms-linear-gradient(top, #180738 10%, #684188 90%); /* IE10 */
-    background:      -o-linear-gradient(top, #180738 10%, #684188 90%); /* Opera 11.10+ */
-    background:         linear-gradient(top, #180738 10%, #684188 90%); /* W3C */
+    background: -webkit-linear-gradient(top, #180738 10%, #684188 90%) no-repeat center center fixed; /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(top, #180738 10%, #684188 90%) no-repeat center center fixed; /* FF3.6+ */
+    background:     -ms-linear-gradient(top, #180738 10%, #684188 90%) no-repeat center center fixed; /* IE10 */
+    background:      -o-linear-gradient(top, #180738 10%, #684188 90%) no-repeat center center fixed; /* Opera 11.10+ */
+    background:         linear-gradient(top, #180738 10%, #684188 90%) no-repeat center center fixed; /* W3C */
+    
+    -webkit-background-size: cover;
+    background-size: cover;
     
     color: #eee;
+    
+    padding-bottom: 2.5%;
 }
 
 .siteHeader{
@@ -33,11 +38,15 @@ body{
 }
 
 .home, .page, .actualPost{
-    background: -webkit-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%); /* Chrome 10+, Saf5.1+ */
-    background:    -moz-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%); /* FF3.6+ */
-    background:     -ms-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%); /* IE10 */
-    background:      -o-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%); /* Opera 11.10+ */
-    background:         linear-gradient(top, #daf3f8 10%, #e7c7f5 90%); /* W3C */
+    background: -webkit-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%) no-repeat center center fixed; /* Chrome 10+, Saf5.1+ */
+    background:    -moz-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%) no-repeat center center fixed; /* FF3.6+ */
+    background:     -ms-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%) no-repeat center center fixed; /* IE10 */
+    background:      -o-linear-gradient(top, #daf3f8 10%, #e7c7f5 90%) no-repeat center center fixed; /* Opera 11.10+ */
+    background:         linear-gradient(top, #daf3f8 10%, #e7c7f5 90%) no-repeat center center fixed; /* W3C */
+    
+    -webkit-background-size: cover;
+    background-size: cover;
+    
     -webkit-box-shadow: 0px 3px 6px 3px #0e002e;
     -moz-box-shadow: 0px 3px 6px 3px #0e002e;
     box-shadow: 0px 3px 6px 3px #0e002e;
