@@ -13,7 +13,7 @@ Here are my goals for the upcoming [Swiss Science Open](http://cube.hackvalue.de
 
 **3x3:** - Sub-21 Avg - Sub-20 Single
 
-**4x4:** - Sub-1:30 Avg - Sub-1:35 Single
+**4x4:** - Sub-1:30 Avg - Sub-1:25 Single
 
 **5x5:** - Sub-4:20 Avg - Sub-4:00 Single
 
